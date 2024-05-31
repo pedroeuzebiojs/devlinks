@@ -10,7 +10,10 @@ body {
 
 #container {
   width: 360px;
-  height: 712px;
   border: 1px solid red;
   margin: auto;
+}
+
+#profile img {
+  width: 112px;
 }
