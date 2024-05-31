@@ -21,12 +21,12 @@ body * {
 
 #container {
   width: 360px;
-  border: 1px solid red;
-  margin: auto;
+  margin: 56px auto 0;
 }
 
 #profile {
   text-align: center;
+  padding: 24px;
 }
 
 #profile img {
@@ -36,4 +36,5 @@ body * {
 p {
   font-weight: 500;
   line-height: 24px;
+  margin-top: 8px;
 }
