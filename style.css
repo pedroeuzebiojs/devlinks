@@ -56,12 +56,28 @@ p {
 }
 
 /* switch */
+#switch {
+  margin: 4px auto;
+  width: 64px;
+  position: relative;
+}
+
 #switch button {
   width: 32px;
   height: 32px;
   background: white var(--switch-bg-url) no-repeat center;
   border: none;
   border-radius: 50%;
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.light #switch button {
+  right: 0;
+  left: initial;
 }
 
 #switch span {
