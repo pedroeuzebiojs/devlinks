@@ -6,8 +6,16 @@ function toggleMode() {
 
   if (html.classList.contains("light")) {
     img.setAttribute("src", "assets/avatar-light.png")
+    img.setAttribute(
+      "alt",
+      "Foto do Pedro Euzebio sorrindo com camisa social azul clara na praia e no fundo o mar aberto."
+    )
   } else {
     img.setAttribute("src", "assets/avatar.png")
+    img.setAttribute(
+      "alt",
+      "Foto do Pedro Euzebio sorrindo com camisa social azul clara."
+    )
   }
 
   // if (html.classList.contains("light")) {
