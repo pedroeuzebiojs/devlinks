@@ -77,6 +77,10 @@ p {
   transform: translateY(-50%);
 }
 
+#switch button:hover {
+  outline: 8px solid var(--highlight-color);
+}
+
 .light #switch button {
   animation: slide-in 0.2s forwards;
 }
