@@ -73,7 +73,7 @@ p {
 
   width: 6.4rem;
 
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
 }
