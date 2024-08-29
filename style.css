@@ -50,7 +50,7 @@ body * {
 header {
   text-align: center;
 
-  padding: 2.4rem;
+  padding: 2.4rem 0;
 }
 
 header img {
