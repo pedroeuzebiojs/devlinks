@@ -29,6 +29,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center / cover;
+
   min-height: 100vh;
 }
 
@@ -41,7 +42,7 @@ body * {
 
 #container {
   width: 100%;
-  max-width: 58.8rem;
+  max-width: 76.8rem;
   margin: 5.6rem auto 0;
   padding: 0 2.4rem;
 }
