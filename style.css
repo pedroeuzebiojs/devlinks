@@ -169,7 +169,11 @@ ul li a:hover {
 
 footer {
   padding: 2.4rem 0;
+}
+
+footer p {
   text-align: center;
+
   font-size: 1.4rem;
 }
 
