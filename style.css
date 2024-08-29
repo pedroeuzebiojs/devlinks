@@ -78,7 +78,7 @@ p {
   right: 0;
 }
 
-#switch button {
+#switch #switch-button {
   width: 3.2rem;
   height: 3.2rem;
   background: white var(--switch-bg-url) no-repeat center;
@@ -91,11 +91,11 @@ p {
   transform: translateY(-50%);
 }
 
-#switch button:hover {
+#switch #switch-button:hover {
   outline: 0.8rem solid var(--highlight-color);
 }
 
-.light #switch button {
+.light #switch #switch-button {
   animation: slide-in 0.2s forwards;
 }
 
