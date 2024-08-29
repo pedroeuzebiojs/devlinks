@@ -47,13 +47,13 @@ body * {
   padding: 0 2.4rem;
 }
 
-/* profile */
-#profile {
+header {
   text-align: center;
+
   padding: 2.4rem;
 }
 
-#profile img {
+header img {
   width: 11.2rem;
 }
 
