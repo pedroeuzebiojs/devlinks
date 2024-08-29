@@ -57,9 +57,10 @@ header img {
   width: 12.8rem;
 }
 
-p {
-  font-weight: 500;
-  line-height: 2.4rem;
+h1 {
+  font-weight: 700;
+  font-size: 2.4rem;
+
   margin-top: 0.8rem;
 }
 
