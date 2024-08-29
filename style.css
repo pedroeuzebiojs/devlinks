@@ -40,7 +40,7 @@ body * {
   color: var(--text-color);
 }
 
-#container {
+#app {
   width: 100%;
   max-width: 76.8rem;
   margin: 5.6rem auto 0;
