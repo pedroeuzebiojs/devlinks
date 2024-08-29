@@ -1,52 +1,129 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">
+  DevLinks
+</h1>
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+## Roteiro
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<ul>
+  <li>
+    <a href="#sobre">
+      Sobre
+    </a>
+  </li>
+  <li>
+    <a href="#tecnologias">
+      Tecnologias
+    </a>
+  </li>
+  <li>
+    <a href="#pre-requisitos">
+      Pré-requisitos
+    </a>
+  </li>
+  <li>
+    <a href="#instalacao">
+      Instalação
+    </a>
+  </li>
+  <li>
+    <a href="#executando">
+      Executando
+    </a>
+  </li>
+  <li>
+    <a href="#layout">
+      Layout
+    </a>
+  </li>
+  <li>
+    <a href="#deploy">
+      Deploy
+    </a>
+  </li>
+  <li>
+    <a href="#autor">
+      Autor
+    </a>
+  </li>
+  <li>
+    <a href="#Licença">
+      Licença
+    </a>
+  </li>
+</ul>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+![Visualização do Projeto](./.github/preview.png)
 
-<br>
+## Sobre
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+DevLinks é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
 
-## 🚀 Tecnologias
+## Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
-- Figma
 
-## 💻 Projeto
+## Pré-requisitos
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Verifique aos seguintes pré-requisitos para poder instalar e executar o projeto:
 
-- [Acesse o projeto finalizado, online](https://pedroeuzebioo.github.io/discover-devlinks)
+1. Ter instalado um editor de código: [VS Code](https://code.visualstudio.com/download)
+2. Ter instalado o [Git](https://git-scm.com/downloads)
+3. Ter instalado a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+## Instalação
 
-## 🔖 Layout
+Siga o passo a passo para instalar o projeto:
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+1. Abra o terminal e clone o repositório do projeto:
 
-## :memo: Licença
+```bash
+git clone https://github.com/pedroeuzebiooo/devlinks-discover-rocketseat
+```
 
-Esse projeto está sob a licença MIT.
+## Executando
 
----
+Siga o passo a passo para executar o projeto:
 
-Feito com ♥ by Pedro Euzebio
+1. Entre na pasta do projeto clonado:
+
+```bash
+cd devlinks-discover-rocketseat
+```
+
+2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o [VS Code](https://code.visualstudio.com/download) digite o comando:
+
+```bash
+code .
+```
+
+3. Abra o arquivo `index.html` com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do VS Code
+
+## Layout
+
+Visualize o layout do projeto através <a href="https://www.figma.com/community/file/1187422022288947321" target="_blank">DESSE LINK</a>. É necessário ter conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
+
+## Deploy
+
+- [Exibir projeto](https://https://pedroeuzebiooo.github.io/devlinks-discover-rocketseat)
+
+## Autor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pedroeuzebiooo">
+        <img src="https://i.imgur.com/a9F1MXp.jpg" alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara." width="100" />
+      </a>
+      <br>
+      Pedro Euzebio
+    </td>
+  </tr>
+</table>
+
+## Licença
+
+O projeto está sob licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
