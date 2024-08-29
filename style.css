@@ -64,11 +64,14 @@ h1 {
   margin-top: 0.8rem;
 }
 
-/* switch */
 #switch {
-  margin: 0.4rem auto;
+  margin: 2rem 2rem 0 0;
+
   width: 6.4rem;
-  position: relative;
+
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 #switch button {
@@ -133,13 +136,11 @@ ul li a {
   transition: background 0.2s;
 }
 
-/* pseudo-selector */
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
 }
 
-/* social links*/
 #social-links {
   display: flex;
   justify-content: center;
@@ -187,7 +188,6 @@ footer p {
   }
 }
 
-/* animations */
 @keyframes slide-in {
   from {
     left: 0;
