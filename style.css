@@ -177,8 +177,7 @@ footer p {
   font-size: 1.4rem;
 }
 
-/* media queries */
-@media (min-width: 700px) {
+@media (min-width: 70rem) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
