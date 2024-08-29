@@ -94,30 +94,32 @@ Siga o passo a passo para executar o projeto:
 cd devlinks-discover-rocketseat
 ```
 
-2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o [VS Code](https://code.visualstudio.com/download) digite o comando:
+2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o VS Code digite o comando:
 
 ```bash
 code .
 ```
 
-3. Abra o arquivo `index.html` com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do VS Code
+3. Abra o arquivo `index.html` com a extensão Live Server do VS Code
 
 ## Layout
 
-Visualize o layout do projeto através <a href="https://www.figma.com/community/file/1187422022288947321" target="_blank">DESSE LINK</a>. É necessário ter conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
+Visualize o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## Deploy
 
-- [Exibir projeto](https://https://pedroeuzebiooo.github.io/devlinks-discover-rocketseat)
+- [Exibir projeto](/https://pedroeuzebiooo.github.io/devlinks-discover-rocketseat)
 
 ## Autor
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pedroeuzebiooo">
-        <img src="https://i.imgur.com/a9F1MXp.jpg" alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara." width="100" />
-      </a>
+      <img
+        src="https://i.imgur.com/a9F1MXp.jpg"
+        alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara."
+        width="100"
+      />
       <br>
       Pedro Euzebio
     </td>
