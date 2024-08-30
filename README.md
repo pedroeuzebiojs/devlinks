@@ -47,7 +47,7 @@
   </li>
 </ul>
 
-![Visualização do Projeto](./.github/preview.png)
+![Visualização do Projeto](./assets/preview.png)
 
 ## Sobre
 
