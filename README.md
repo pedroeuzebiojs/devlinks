@@ -76,7 +76,7 @@ Siga o passo a passo para instalar o projeto:
 1. Abra o terminal e clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/pedroeuzebiooo/devlinks-discover-rocketseat
+git clone https://github.com/pedroeuzebiooo/devlinks
 ```
 
 ## Executando
@@ -86,7 +86,7 @@ Siga o passo a passo para executar o projeto:
 1. Entre na pasta do projeto clonado:
 
 ```bash
-cd devlinks-discover-rocketseat
+cd devlinks
 ```
 
 2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o VS Code digite o comando:
@@ -99,7 +99,7 @@ code .
 
 ## Deploy
 
-- [Exibir projeto](/https://pedroeuzebiooo.github.io/devlinks-discover-rocketseat)
+- [Exibir projeto](/https://pedroeuzebiooo.github.io/devlinks)
 
 ## Autor
 
